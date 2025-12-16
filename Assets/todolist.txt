@@ -1,0 +1,23 @@
+● be engaging to play
+
+☑️ - ● at least one character that the player can move
+
+● a number of hazards (at least 3) which the player’s character needs to avoid
+(for example an AI)
+
+1/4 - ● appropriate items (at least 4) which the player’s character can collect which
+improves their health
+
+☑️ - ● a scoring system which will show that you are improving your health when
+the player’s character collects each item (you might decide to also allow them
+to collect points)
+
+☑️ - ● a health system which will go down when the player’s character collides with
+hazards (you might decide that your player’s character loses points as well)
+
+● involving a time limit which expires and resets the game
+
+● the player being able to move to another level which might have more
+hazards, fewer lives or a shorter time.
+
+● having either music or sound effects to keep it engaging

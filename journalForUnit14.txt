@@ -1,0 +1,13 @@
+04/12/25: 
+made moving obstacles
+
+09/12/25:
+
+I lost most of my progress due to cloud issues.
+
+Re-wrote my project so that it now has:
+
+a player that can move (animated) + health counter
+basic hazards (obstacles)
+Collectibles (and a score counter) 
+
