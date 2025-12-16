@@ -11,3 +11,8 @@ a player that can move (animated) + health counter
 basic hazards (obstacles)
 Collectibles (and a score counter) 
 
+16/12/25
+added movingPlatform which i wrote in class
+started debugging process on why a few sprites were not rendering properly
+Finished level 1
+implemented a "turret" (almost done, need to debug why it doesn't actually do damage)

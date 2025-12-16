@@ -2,7 +2,7 @@
 
 ☑️ - ● at least one character that the player can move
 
-● a number of hazards (at least 3) which the player’s character needs to avoid
+2/3 - ● a number of hazards (at least 3) which the player’s character needs to avoid
 (for example an AI)
 
 1/4 - ● appropriate items (at least 4) which the player’s character can collect which

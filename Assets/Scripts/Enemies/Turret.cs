@@ -52,7 +52,7 @@ public class Turret : MonoBehaviour
         DamageDealer dealer = proj.GetComponent<DamageDealer>();
         if (dealer != null)
         {
-            dealer.ResetCooldown(); // avoid immediate repeat hits if spawning inside player
+            dealer.ResetCooldown();
         }
     }
 

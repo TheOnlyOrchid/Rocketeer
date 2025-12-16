@@ -15,6 +15,7 @@ public class Collisions : MonoBehaviour
                 { LayerMask.NameToLayer("Enemy"),          1 },
                 { LayerMask.NameToLayer("Projectile"),     1 },
                 { LayerMask.NameToLayer("Scenery"),        1 },
+                { LayerMask.NameToLayer("Spikes"),         2 },
                 { LayerMask.NameToLayer("BossProjectile"), 2 }
             };
         }
