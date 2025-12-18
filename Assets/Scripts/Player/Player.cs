@@ -90,7 +90,8 @@ public class Player : MonoBehaviour
 
     private static void KillPlayer()
     {
+        int deathSceneIndex = 1;
         Debug.Log("Player Has Died");
-        // die / respawn logic here
+        SceneController.setScene(1);
     }
 }
